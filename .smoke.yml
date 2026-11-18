@@ -1,0 +1,3 @@
+port: 8080
+health_path: /healthz
+max_instances: 1
